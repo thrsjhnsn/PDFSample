@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{120ACF72-64FA-4548-806B-EA0797C87CFD}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.PDFSample.Droid PreferredExecutionTarget="Android.30049869c9303100" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/theresajohnson/Projects/PDFSample/Droid/AndroidCreatePDF.cs" relfile="Droid/AndroidCreatePDF.cs" line="50" column="1" />
+      <Breakpoint file="/Users/theresajohnson/Projects/PDFSample/iOS/iOSCreatePDF.cs" relfile="iOS/iOSCreatePDF.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PDFSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3C0B700-BCDA-495F-ADF3-60EC427F9477" />
+</Properties>
